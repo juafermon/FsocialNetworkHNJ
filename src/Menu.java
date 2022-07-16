@@ -39,6 +39,7 @@ public class Menu {
                 case 2:
                     int identificadorhoras=0;
                     int aumentoHoras;
+                    int pruebaaa;
                     boolean condhoras=true;
 
                     while(condhoras) {
